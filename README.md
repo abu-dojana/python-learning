@@ -21,3 +21,9 @@ Then I will start developing applications in python.
 2. .NET development
 3. python development
 4. make useless apps.
+   - ticktacktoe
+   - a management system with java or cpp
+   - another app dev project
+5. Web development.
+6. html, css
+7. database
