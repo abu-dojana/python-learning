@@ -15,7 +15,8 @@ Then I will read the book for c/c++ learning writen by MD Kykobad. <br>
 In the mean time, I will practice __competitive programming__ with python, lua untill I learn C++ completely. <br>
 Then I will start developing applications in python.
 <br>
-### Goal:
+
+## Goal:
 1. CP
 2. .NET development
 3. python development
